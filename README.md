@@ -1,2 +1,6 @@
-# FedericoRanaldi.github.io
-Personal Webpage
+---
+layout: default
+title: Federico Ranaldi WebPage
+theme: jekyll-theme-cayman
+---
+
